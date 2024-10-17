@@ -2,4 +2,5 @@
 *.html linguist-detectable=true linguist-language=HTML
 *.css linguist-detectable=true linguist-language=CSS
 *.js linguist-detectable=true linguist-language=JavaScript
+*.js linguist-vendored=true
 
