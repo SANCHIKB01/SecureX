@@ -1,5 +1,5 @@
-*.py linguist-detectable=true
-*.html linguist-detectable=true
-*.css linguist-detectable=true
-*.js linguist-detectable=true
-backend/*.py linguist-vendored=false
+*.py linguist-detectable=true linguist-language=Python
+*.html linguist-detectable=true linguist-language=HTML
+*.css linguist-detectable=true linguist-language=CSS
+*.js linguist-detectable=true linguist-language=JavaScript
+
