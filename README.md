@@ -28,9 +28,11 @@ SecureX is an intelligent face detection and exam proctoring system built with O
 # 📂 Project Structure
 ```
 securex/
-├── app.py
-├── tutorial8.py
 ├── frontend/
+│   ├── app.py
+│   ├── tutorial8.py
+├── haarcascades/
+├── securex-main/
 │   ├── src/
 │   │   ├── App.js
 │   │   ├── App.css
@@ -40,36 +42,37 @@ securex/
 │   │   │   ├── Login.js
 │   │   │   └── Logintr.js
 │   │   └── Containers/
-│   │       ├── TcPage/
-│   │       ├── StPage/
-│   │       ├── MPage/
+│   │       ├── Auth/
 │   │       ├── Exam/
-│   │       └── LeaderBoard/
+│   │       ├── MPage/
+│   │       ├── StPage/
+│   │       ├── TcPage/
+│   │       └── LeaderBoard.js
 │   └── public/
 ├── screenshots/
 ```
 
 
 # 📸 Screenshots
-### Project View
+### Main Page
 
-![image](https://github.com/user-attachments/assets/cc9f92ee-a726-4627-9811-330d3cd9e876)
+![image](https://github.com/SANCHIKB01/SecureX/blob/main/screenshots/Main%20Page.jpg)
 
-### Uploading File and QnA
+### Student Page
 
-![image](https://github.com/user-attachments/assets/1cac202d-7156-4f4c-873f-a01a0c7037c0)
+![image](https://github.com/SANCHIKB01/SecureX/blob/main/screenshots/Student%20Page.jpg)
 
-### Delete the document
+### Exam Page
 
-![image](https://github.com/user-attachments/assets/adf5ff38-aa97-4866-b670-0634a91715dc)
+![image](https://github.com/SANCHIKB01/SecureX/blob/main/screenshots/Exam%20Page.jpg)
 
-### MongoDB Chat messages
+### Teacher Page
 
-![image](https://github.com/user-attachments/assets/77555947-0de6-40ee-9f5a-ad1062b14d7f)
+![image](https://github.com/SANCHIKB01/SecureX/blob/main/screenshots/Teacher%20Page.png)
 
-### Redix Cache messages
+### Student Result Data
 
-![image](https://github.com/user-attachments/assets/ba52f197-0e0b-47af-8cdb-79a3b97d7b8c)
+![image](https://github.com/SANCHIKB01/SecureX/blob/main/screenshots/Student%20Result%20Data.png)
 
 
 # 🗣️ Set Your Database Configuration
